@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/153496236?v=4" width="150" alt="Joe's GitHub profile picture" />
+  ![Joe's avatar](https://github.com/Josephgavor100/Josephgavor100/blob/main/Cj.png)
 </p>
 
 # 👋 Hi, I'm Joe 
