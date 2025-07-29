@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joe - Joe[dot]dev100
+# 👋 Hi, I'm Joe - [Joseph Mawuko Gavor]
 
 #### Welcome to my GitHub profile! Here, you'll find my latest stats, achievements, milestones, education, and more.
 
