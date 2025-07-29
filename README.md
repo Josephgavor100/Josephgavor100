@@ -1,6 +1,6 @@
 
 <p align="center">
-  ![Joe's avatar](https://github.com/Josephgavor100/Josephgavor100/blob/main/Cj.png)
+  ![Joe's avatar](https://github.com/Josephgavor100/Josephgavor100/raw/main/Cj.png)
 </p>
 
 # 👋 Hi, I'm Joe 
