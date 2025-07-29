@@ -1,6 +1,6 @@
 
 <p align="center">
-  ![Joe's avatar](https://github.com/Josephgavor100/Josephgavor100/raw/main/Cj.png)
+  <img width="300" height="300" alt="Joe" src="https://github.com/user-attachments/assets/76de231a-1acc-4000-bce7-6f8497989d17" />
 </p>
 
 # 👋 Hi, I'm Joe 
