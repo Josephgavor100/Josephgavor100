@@ -47,7 +47,7 @@
 
 ## 📚 Projects
 
-- [👁bsidianEye(eye-of-focus-puzzle)](#) - _(Coming soon...)_
+- [👁bsidianEye (eye-of-focus-puzzle)](#) - _(Coming soon...)_
 - [Pyprojects](#) - _(Coming soon...)_
 - [...]
 
