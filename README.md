@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img width="300" height="300" alt="Joe" src="https://github.com/user-attachments/assets/76de231a-1acc-4000-bce7-6f8497989d17" />
-</p>
-
 # 👋 Hi, I'm Joe 
 
 Welcome to my GitHub profile! Here you'll find my latest stats, achievements, milestones, education, and more.
@@ -32,19 +27,19 @@ Welcome to my GitHub profile! Here you'll find my latest stats, achievements, mi
 
 ---
 
+## 🚀 Experience (Milestones)
+
+- **Milestone 1:** _(Add details here)_
+- **Milestone 2:** _(Add details here)_
+- *(Add new milestones as you reach them!)*
+
+---
+
 ## 🏆 Achievements
 
 - **Achievement 1:** _(Add details here)_
 - **Achievement 2:** _(Add details here)_
 - *(Add new achievements as you earn them!)*
-
----
-
-## 🚀 Milestones
-
-- **Milestone 1:** _(Add details here)_
-- **Milestone 2:** _(Add details here)_
-- *(Add new milestones as you reach them!)*
 
 ---
 
@@ -62,12 +57,15 @@ Welcome to my GitHub profile! Here you'll find my latest stats, achievements, mi
 
 ---
 
-## 📫 Contact
+## 📫 Reach me: Contact
 
 - [Email](mailto:josephgavor100@email.com)
 - [LinkedIn](https://linkedin.com/in/joseph-gavor100)
 - [Twitter](https://twitter.com/yourprofile)
 
 ---
+
+<img width="600" height="650" alt="image" src="https://github.com/user-attachments/assets/c61c9ba6-a03a-4622-90c6-3328211c5a87" />
+
 
 _This README will be updated as my journey continues!_
