@@ -39,36 +39,39 @@
 
 ## 🏆 Achievements
 
-- **Achievement 1:** _(Pre-finalist | IYMC '24)_
-- **Achievement 2:** _(MMC x GWG Scholar | Mentor Me Collective)_
+- **Achievement 1:** _Participant | ICSC '25_
+- **Achievement 2:** _ALP Participant | ALP '25_
+- **Achievement 3:** _Pre-finalist | IYMC '24_
+- **Achievement 4:** _MMC x GWG Scholar | Mentor Me Collective_
 - *(...)*
 
 ---
 
 ## 📚 Projects
 
-- [👁bsidianEye (eye-of-focus-puzzle)](#) - _(Coming soon...)_
-- [Pyprojects](#) - _(Coming soon...)_
+- [👁bsidianEye (eye-of-focus-puzzle)](#) - _[Coming soon...]_
+- [Pyprojects](#) - _[Coming soon...]_
 - [...]
 
 ---
 
 ## 🌱 Learning & Goals
 
-- Currently learning: _(CS50: Introduction to Computer Science)_
+- Currently learning: _CS50: Introduction to Computer Science_
 - Next goals: _(...)_
 
 ---
 
-## 📫 Reach me: Contact
+## 📫 Reach me [Contact]
 
 - [Email](mailto:josephgavor100@email.com)
 - [LinkedIn](https://linkedin.com/in/joseph-gavor100)
 - [Twitter](https://twitter.com/joe.dev100)
 
 ---
+- ### Take Away
 
 <img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/c61c9ba6-a03a-4622-90c6-3328211c5a87" />
 
 
-_This README will be updated as my journey continues!_
+_"This README will be updated as my journey continues!" - Joe_
