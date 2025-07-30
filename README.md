@@ -23,7 +23,7 @@
 ## 📊 GitHub Metrics
 
 <!--START_SECTION:metrics-->
-...
+![Metrics](https://github.com/Josephgavor100/Josephgavor100/blob/main/github-metrics.svg)
 <!--END_SECTION:metrics-->
 
 ---
