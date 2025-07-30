@@ -18,14 +18,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Josephgavor100
           # Choose your theme:
-          template: github   # Or use 'github' for GitHub style (try classic later!)
-          base: header, repositories, activity, languages, stars, isocalendar, community, followup, habits
+          template: classic   # Or use 'github' for GitHub style (try classic later!)
+          base: header, repositories, activity, languages, stars, isocalendar, followup, habits
           plugin_repositories: yes
           plugin_activity: yes
           plugin_languages: yes
           plugin_stars: yes
           plugin_isocalendar: yes
-          plugin_community: yes
           plugin_followup: yes
           plugin_habits: yes
           config_timezone: UTC
