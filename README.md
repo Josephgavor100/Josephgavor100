@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Joe - [Joseph Mawuko Gavor]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?pause=10000&size=30&width=500&lines=Computer+Science+major+🎓;Software+Engineer+💻)](https://git.io/typing-svg)  
+---
 
-#### Welcome to my GitHub profile! Here, you'll find my latest stats, achievements, projects, education, and more.
+#  <div align="center"> Joe - [Joseph Mawuko Gavor ]</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&width=500&pause=1000&lines=👋+Hi,+I'm+Joe.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
+
+#### Here, you'll find my latest stats, achievements, projects, education, and more.
 
 ---
 
@@ -64,14 +70,17 @@
 
 ## 📫 Reach me [Contact]
 
-- [Email](mailto:josephgavor100@email.com)
-- [LinkedIn](https://linkedin.com/in/joseph-gavor100)
-- [Twitter](https://twitter.com/joe.dev100)
+- [📧 Email](mailto:josephgavor100@email.com)
+- [💼 LinkedIn](https://linkedin.com/in/joseph-gavor100)
+- [💻 GitHub](https://github.com/Josephgavor100)
+- [🌐 Twitter](https://twitter.com/joe.dev100)
 
 ---
 - ### Take Away
 
 <img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/c61c9ba6-a03a-4622-90c6-3328211c5a87" />
 
-
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you!;Have+a+great+day!!)](https://git.io/typing-svg)
+---
 _"This README will be updated as my journey continues!" - Joe_
