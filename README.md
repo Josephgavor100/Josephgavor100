@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Role
 
-- **Current Role:** Data Analyst intern @Excelerate | CS & Maths | Aspiring SWE
+- **Current Role:** Data Analyst intern @Excelerate | CS & Maths | SWE
 - **Organization:** Excelerate
 
 ---
@@ -38,7 +38,8 @@
 
 - **Data Analyst Intern:** _Excelerate | Aug-Sep 2025_
 - **Project Management Intern:** _[In]coming_
-- **Associate Project Management Intern** _[In]coming_
+- **Associate Project Management Intern:** _[In]coming_
+- **Software Engineer Intern:** _[In]coming_
 - *(...)*
 
 ---
