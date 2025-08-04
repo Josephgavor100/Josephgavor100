@@ -56,8 +56,8 @@
 
 ## 📚 Projects
 
-- [👁bsidianEye (eye-of-focus-puzzle)](#) - _[Coming soon...]_
-- [Pyprojects](#) - _[Coming soon...]_
+- [👁bsidianEye (eye-of-focus-puzzle)](https://github.com/Josephgavor100/eye-of-focus-puzzle) - _[Coming soon...]_
+- [Pyprojects](https://github.com/Josephgavor100/Py-projects) - _[Coming soon...]_
 - [...]
 
 ---
