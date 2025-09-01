@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Role
 
-- **Current Role:** Data Analyst intern @Excelerate | CS & Maths | SWE
+- **Current Role:** Project Management Intern @Excelerate | CS & Maths | SWE
 - **Organization:** Excelerate
 
 ---
@@ -36,9 +36,8 @@
 
 ## 🚀 Experience (Milestones)
 
+- **Project Management Intern:** _Excelerate | Sep-Nov 2025_
 - **Data Analyst Intern:** _Excelerate | Aug-Sep 2025_
-- **Project Management Intern:** _[In]coming_
-- **Associate Project Management Intern:** _[In]coming_
 - **Software Engineer Intern:** _[In]coming_
 - *(...)*
 
@@ -46,7 +45,7 @@
 
 ## 🏆 Achievements
 
-- **Achievement 1:** _Participant | ICSC '25_
+- **Achievement 1:** _Pre-finalist | ICSC '25_
 - **Achievement 2:** _ALP Participant | ALP '25_
 - **Achievement 3:** _Pre-finalist | IYMC '24_
 - **Achievement 4:** _MMC x GWG Scholar | Mentor Me Collective_
