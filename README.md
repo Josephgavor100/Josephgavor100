@@ -19,9 +19,9 @@
 
 ## 🎓 Education
 
-- **Degree:** BS in Computer Science
+- **Degree:** BA in Computer Science
 - **Institution:** Incoming
-- **Year of Graduation:** 2029/2030
+- **Year of Graduation:** 2030
 - **Other Certifications:** CS50: Harvard University | Google IT Support | Google Data Analytics |
 
 ---
