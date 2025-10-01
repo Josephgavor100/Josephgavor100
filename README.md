@@ -12,15 +12,15 @@
 
 ## 👨‍💻 Role
 
-- **Current Role:** Project Management Intern @Excelerate | CS & Maths | SWE
+- **Current Role:** Project Management Intern @Excelerate | Aspiring CS & Maths Major | SWE
 - **Organization:** Excelerate
 
 ---
 
 ## 🎓 Education
 
-- **Degree:** BA in Computer Science
-- **Institution:** Incoming
+- **Degree:** BS in Computer Science & Mathematics
+- **Institution:** Incoming @ ???
 - **Year of Graduation:** 2030
 - **Other Certifications:** CS50: Harvard University | Google IT Support | Google Data Analytics |
 
@@ -84,4 +84,4 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you!;Have+a+great+day!!)](https://git.io/typing-svg)
 ---
-_"This README will be updated as my journey continues!" - Joe_
+_“Relentlessly curious and driven by purpose, I’m committed to advancing intelligence, exploring complexity, and contributing meaningfully to the future of computation and human understanding.”_ - Joe
