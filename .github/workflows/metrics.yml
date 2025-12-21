@@ -13,10 +13,23 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Install dependencies
+      - name: Checkout repository (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install jq (binary fallback; avoids apt conflicts)
         run: |
-          sudo apt-get update
-          sudo apt-get install -y docker.io jq
+          set -euo pipefail
+          if command -v jq >/dev/null 2>&1; then
+            echo "jq already installed: $(jq --version)"
+          else
+            echo "Downloading jq binary to /usr/local/bin/jq"
+            sudo curl -fsSL -o /usr/local/bin/jq https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64
+            sudo chmod +x /usr/local/bin/jq
+            jq --version
+          fi
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
