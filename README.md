@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Role
 
-- **Current Role:** Project Management Intern @Excelerate | Aspiring CS & Maths Major | SWE
+- **Current Role:** Aspiring CS & Maths Major | SWE
 - **Organization:** Excelerate
 
 ---
@@ -48,8 +48,8 @@
 - **Achievement 1:** _Pre-finalist | ICSC '25_
 - **Achievement 2:** _Pre-finalist | IYMC '25_
 - **Achievement 3:** _ALP Participant | ALP '25_
-- **Achievement 5:** _Grow With Google Scholar | MMC '25_
-- **Achievement 4:** _Pre-finalist | IYMC '24_
+- **Achievement 4:** _Grow With Google Scholar | MMC '25_
+- **Achievement 5:** _Pre-finalist | IYMC '24_
 - *(...)*
 
 ---
