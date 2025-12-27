@@ -13,7 +13,7 @@
 ## 👨‍💻 Role
 
 - **Current Role:** Aspiring CS & Maths Major | SWE
-- **Organization:** Excelerate
+- **Organization:** ...
 
 ---
 
@@ -38,7 +38,7 @@
 
 - **Project Management Intern:** _Excelerate | Sep-Nov 2025_
 - **Data Analyst Intern:** _Excelerate | Aug-Sep 2025_
-- **Software Engineer Intern:** _[In]coming_
+- **Software Engineer Intern:** ...
 - *(...)*
 
 ---
@@ -65,7 +65,7 @@
 ## 🌱 Learning & Goals
 
 - Currently learning: _CS50: Introduction to Computer Science_
-- Next goals: _(...)_
+- Next goals: _Data Structures & Algorithms - DSA_
 
 ---
 
