@@ -82,6 +82,10 @@
 <img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/c61c9ba6-a03a-4622-90c6-3328211c5a87" />
 
 ---
+### Check out My YouTube Channel @SWE_Pilgrimage [coming soon <3]
+<img width="2560" height="1440" alt="YouTube Banner - SWE Pilgrimage_Avatar" src="https://github.com/user-attachments/assets/d0d8d8b8-5533-46cb-9e79-ffb5558e442b" />
+
+---
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you!;Have+a+great+day!!)](https://git.io/typing-svg)
 ---
 _“Relentlessly curious and driven by purpose, I’m committed to advancing intelligence, exploring complexity, and contributing meaningfully to the future of computation and human understanding.”_ - Joe
