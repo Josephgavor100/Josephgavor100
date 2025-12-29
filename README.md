@@ -74,7 +74,7 @@
 - [📧 Email](mailto:josephgavor100@email.com)
 - [💼 LinkedIn](https://linkedin.com/in/joseph-gavor100)
 - [💻 GitHub](https://github.com/Josephgavor100)
-- [🌐 Twitter](https://twitter.com/joe.dev100)
+- [🌐 Twitter](https://twitter.com/joe_dev100)
 
 ---
 - ### Take Away
