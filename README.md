@@ -64,8 +64,8 @@
 
 ## 🌱 Learning & Goals
 
-- Currently learning: _CS50: Introduction to Computer Science_
-- Next goals: _Data Structures & Algorithms - DSA_
+- Currently learning: _Data Structures & Algorithms - DSA_
+- Next goals: 
 
 ---
 
