@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Role
 
-- **Current Role:** Aspiring CS & Maths Major | SWE
+- **Current Role:** Aspiring CS & Maths Major |
 - **Organization:** ...
 
 ---
