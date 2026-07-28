@@ -56,16 +56,18 @@
 
 ## 📚 Projects
 
-- [👁bsidianEye (eye-of-focus-puzzle)](https://github.com/Josephgavor100/eye-of-focus-puzzle) - _[Coming soon...]_
-- [Pyprojects](https://github.com/Josephgavor100/Py-projects) - _[Coming soon...]_
-- [...]
+- [Integrated-Systems-Project](https://github.com/Josephgavor100/Integrated-Systems-Project) - [A unified Software Engineering and Data Science platform featuring National Electricity Grid Network Analysis (NetworkX, Folium, Streamlit), GridCare-Lite desktop outage management (Tkinter, SQLite), and ClinicCare-Lite web-based administrative management (Flask, REST).]
+- [Python projects](https://github.com/Josephgavor100/100-Python-Projects) - _[A collection of Python projects and demonstration of language proficiency.]_
+- [Valora](https://github.com/Josephgavor100/Valora) - [Stripe for real estate deal underwriting workflows... Coming soon]
+- [👁bsidianEye](https://github.com/Josephgavor100/eye-of-focus-puzzle) - [Eye-of-focus-puzzle... Coming soon]_
+- [Purion]() - [Coming soon]
 
 ---
 
 ## 🌱 Learning & Goals
 
 - Currently learning: _Data Structures & Algorithms - DSA_
-- Next goals: 
+- Next goals: System Design
 
 ---
 
