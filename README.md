@@ -20,8 +20,8 @@
 ## 🎓 Education
 
 - **Degree:** BS in Computer Science & Mathematics
-- **Institution:** Incoming @ ???
-- **Year of Graduation:** 2030
+- **Institution:** 
+- **Year of Graduation:** 
 - **Other Certifications:** CS50: Harvard University | Google IT Support | Google Data Analytics |
 
 ---
