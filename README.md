@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Role
 
-- **Current Role:** CS & Maths Major | SWE
+- **Current Role:** CS Major | SWE
 - **Organization:** ...
 
 ---
