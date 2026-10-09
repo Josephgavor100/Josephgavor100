@@ -45,11 +45,13 @@
 
 ## 🏆 Achievements
 
-- **Achievement 1:** _Pre-finalist | ICSC '25_
-- **Achievement 2:** _Pre-finalist | IYMC '25_
-- **Achievement 3:** _ALP Participant | ALP '25_
-- **Achievement 4:** _Grow With Google Scholar | MMC '25_
-- **Achievement 5:** _Pre-finalist | IYMC '24_
+- **Achievement 1:** _Selected Participant | GreatUniHack 2026_
+- **Achievement 2:** _Selected Participant | Junction 2026_
+- **Achievement 3:** _Pre-finalist | ICSC '25_
+- **Achievement 4:** _Pre-finalist | IYMC '25_
+- **Achievement 5:** _ALP Participant | ALP '25_
+- **Achievement 6:** _Grow With Google Scholar | MMC '25_
+- **Achievement 7:** _Pre-finalist | IYMC '24_
 - *(...)*
 
 ---
