@@ -52,18 +52,16 @@
 - **Achievement 5:** _ALP Participant | ALP '25_
 - **Achievement 6:** _Grow With Google Scholar | MMC '25_
 - **Achievement 7:** _Pre-finalist | IYMC '24_
-- *(...)*
 
 ---
 
 ## 📚 Projects
 - [Sonar Pulse](https://github.com/Josephgavor100/sonar-pulse) - [Enterprise-Grade AI-powered Audio Intelligence & Music Recognition Platform]
-- [Repo Intelligence Optimizer](https://github.com/fifidegraft/optimizer) - [An autonomous performance optimization engine designed to analyze Python codebases, detect runtime hotspots, and validate non-breaking code optimizations using dynamic profiling and AST static analysis.]
-- [Integrated-Systems-Project](https://github.com/Josephgavor100/Integrated-Systems-Project) - [A unified Software Engineering and Data Science platform featuring National Electricity Grid Network Analysis, GridCare-Lite desktop outage management, and ClinicCare-Lite web-based administrative management.]
-- [Valora](https://github.com/Josephgavor100/Valora) - [Stripe for real estate deal underwriting workflows... ]
-- [👁bsidianEye](https://github.com/Josephgavor100/eye-of-focus-puzzle) - [Eye-of-focus-puzzle...]_
-- [Python projects](https://github.com/Josephgavor100/100-Python-Projects) - [A collection of Python projects and demonstration of language proficiency.]
-- []() - [...]
+- [Repo Intelligence Optimizer](https://github.com/fifidegraft/optimizer) - [An autonomous performance optimization engine designed to analyze Python codebases, detect runtime hotspots, and validate non-breaking code optimizations using dynamic profiling and AST static analysis]
+- [Integrated-Systems-Project](https://github.com/Josephgavor100/Integrated-Systems-Project) - [A unified Software Engineering and Data Science platform featuring National Electricity Grid Network Analysis, GridCare-Lite desktop outage management, and ClinicCare-Lite web-based administrative management]
+- [Valora](https://github.com/Josephgavor100/Valora) - [Stripe for real estate deal underwriting workflows]
+- [👁bsidianEye](https://github.com/Josephgavor100/eye-of-focus-puzzle) - [Eye-of-focus-puzzle]
+- [Python projects](https://github.com/Josephgavor100/100-Python-Projects) - [A collection of Python projects and demonstration of language proficiency]
 
 ---
 
