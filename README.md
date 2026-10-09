@@ -20,8 +20,8 @@
 ## 🎓 Education
 
 - **Degree:** BS in Computer Science & Mathematics
-- **Institution:** 
-- **Year of Graduation:** 
+- **Institution:** ...
+- **Year of Graduation:** ...
 - **Other Certifications:** CS50: Harvard University | Google IT Support | Google Data Analytics |
 
 ---
@@ -55,10 +55,11 @@
 ---
 
 ## 📚 Projects
-- [Repo Intelligence Optimizer](https://github.com/fifidegraft/optimizer) - [Engineered an autonomous performance optimization engine designed to analyze Python codebases, detect runtime hotspots, and validate non-breaking code optimizations using dynamic profiling and AST static analysis.]
-- [Integrated-Systems-Project](https://github.com/Josephgavor100/Integrated-Systems-Project) - [A unified Software Engineering and Data Science platform featuring National Electricity Grid Network Analysis (NetworkX, Folium, Streamlit), GridCare-Lite desktop outage management (Tkinter, SQLite), and ClinicCare-Lite web-based administrative management (Flask, REST).]
-- [Valora](https://github.com/Josephgavor100/Valora) - [Stripe for real estate deal underwriting workflows... Coming soon]
-- [👁bsidianEye](https://github.com/Josephgavor100/eye-of-focus-puzzle) - [Eye-of-focus-puzzle... Coming soon]_
+- [Sonar Pulse](https://github.com/Josephgavor100/sonar-pulse) - [Enterprise-Grade AI-powered Audio Intelligence & Music Recognition Platform]
+- [Repo Intelligence Optimizer](https://github.com/fifidegraft/optimizer) - [An autonomous performance optimization engine designed to analyze Python codebases, detect runtime hotspots, and validate non-breaking code optimizations using dynamic profiling and AST static analysis.]
+- [Integrated-Systems-Project](https://github.com/Josephgavor100/Integrated-Systems-Project) - [A unified Software Engineering and Data Science platform featuring National Electricity Grid Network Analysis, GridCare-Lite desktop outage management, and ClinicCare-Lite web-based administrative management.]
+- [Valora](https://github.com/Josephgavor100/Valora) - [Stripe for real estate deal underwriting workflows... ]
+- [👁bsidianEye](https://github.com/Josephgavor100/eye-of-focus-puzzle) - [Eye-of-focus-puzzle...]_
 - [Python projects](https://github.com/Josephgavor100/100-Python-Projects) - [A collection of Python projects and demonstration of language proficiency.]
 - []() - [...]
 
